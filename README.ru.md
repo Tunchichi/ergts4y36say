@@ -26,28 +26,31 @@
 
 <br>
 
+### Язык
+[![ru](https://img.shields.io/badge/lang-ru-red)](https://github.com/hydralauncher/hydra/blob/main/README.ru.md)
+
 ## Содержание
 
-- [О нас](#about)
-- [Функции](#features)
-- [Монтаж](#installation)
-- [Сотрудничество](#contributing)
-  - [Присоединяйтесь к нашему Discord](#join-our-discord)
-  - [Ответвлить и клонировать свой репозиторий](#fork-and-clone-your-repository)
-  - [Способы внести свой вклад](#ways-you-can-contribute)
-  - [Структура проекта](#project-structure)
-- [Создать из источника](#build-from-source)
-  - [Установите Node.js](#install-nodejs)
-  - [Установите Yarn](#install-yarn)
-  - [Установите зависимости Node](#install-node-dependencies)
-  - [Установите Python 3.9](#install-python-39)
-  - [Установите зависимости Python](#install-python-dependencies)
-- [Переменные среды](#environment-variables)
-- [Запуск](#running)
-- [Создание](#build)
-  - [Создайте клиент BitTorrent](#build-the-bittorrent-client)
-  - [Создайте приложение Electron](#build-the-electron-application)
-- [Участники](#contributors)
+- [О нас](#о-нас)
+- [Функции](#функции)
+- [Установка](#установка)
+- [Сотрудничество](#сотрудничестово)
+  - [Присоединяйтесь к нашему Discord](#присоединяйтесь-к-нашему-discord)
+  - [Ответвлить и клонировать свой репозиторий](#ответвлить-и-клонировать-свой-репозиторий)
+  - [Способы внести свой вклад](#способы-внести-свой-вклад)
+  - [Структура проекта](#структура-проекта)
+- [Создать из источника](#создать-из-источника)
+  - [Установите Node.js](#установите-nodejs)
+  - [Установите Yarn](#установите-yarn)
+  - [Установите зависимости Node](#установите-зависимости-node)
+  - [Установите Python 3.9](#установите-python-39)
+  - [Установите зависимости Python](#установите-зависимости-python)
+- [Переменные среды](#переменные-среды)
+- [Запуск](#запуск)
+- [Создание](#создание)
+  - [Создайте клиент BitTorrent](#создайте-клиент-bittorrent)
+  - [Создайте приложение Electron](#создайте-приложение-electron)
+- [Участники](#участники)
 
 ## О нас
 
@@ -70,7 +73,7 @@
 
 Следуйте приведенным ниже шагам, чтобы установить:
 
-1. Загрузите последнюю версию Hydra из[Выпуски](https://github.com/hydralauncher/hydra/releases/latest) page.
+1. Загрузите последнюю версию Hydra из [Выпуски](https://github.com/hydralauncher/hydra/releases/latest).
    - Загрузите только .exe, если вы хотите установить Hydra в Windows.
    - Скачать .deb или .rpm или .zip, если вы хотите установить Hydra на Linux.(Зависит от вашего дистрибутива Linux)
 2. Запустите загруженный файл.
